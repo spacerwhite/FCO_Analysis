@@ -27,7 +27,7 @@ FC online 축구게임은 동아시아에서 5천3백만명이 넘는 누적 가
 
 # 파일 설명
 
-[](): 분석 Notebook
+[FCO_Analysis](https://github.com/spacerwhite/FCO_Analysis/blob/main/FC_Online_Analysis.ipynb): 분석 Notebook
 
 [Report](https://github.com/spacerwhite/FCO_Victory_Analysis/tree/main/Report): 분석 보고서, ppt
 
