@@ -19,7 +19,7 @@ FC online 축구게임은 동아시아에서 5천3백만명이 넘는 누적 가
 
 [김상준](https://github.com/sp6798): Shooting 컬럼과 승률 분석
 
-[김희령](): Defence 컬럼과 승률 분석
+[김희령](https://github.com/qwasd34): Defence 컬럼과 승률 분석
 
 [백승훈](https://github.com/spacerwhite): ShootDetail 컬럼과 득점 좌표 분석
 
