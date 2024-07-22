@@ -17,7 +17,7 @@ FC online 축구게임은 동아시아에서 5천3백만명이 넘는 누적 가
 
 # 팀원 및 역할
 
-[김상준](https://github.com/sp6798): Shooting 컬럼과 승률 분석
+[김상준](https://github.com/sp6798): Shooting,shootDetail 승률 분석
 
 [김희령](https://github.com/qwasd34): Defence 컬럼과 승률 분석
 
