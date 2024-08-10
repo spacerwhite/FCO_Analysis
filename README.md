@@ -17,13 +17,13 @@ FC online 축구게임은 동아시아에서 5천3백만명이 넘는 누적 가
 
 # 팀원 및 역할
 
-[김상준](https://github.com/sp6798): Shooting,shootDetail 승률 분석
+[김상준](https://github.com/sp6798): 데이터 ETL, Shooting,shootDetail 승률 분석
 
-[김희령](https://github.com/qwasd34): Defence 컬럼과 승률 분석
+[김희령](https://github.com/qwasd34): 데이터 ETL, Defence 컬럼과 승률 분석
 
-[백승훈](https://github.com/spacerwhite): ShootDetail 컬럼과 득점 좌표 분석
+[백승훈](https://github.com/spacerwhite): 데이터 ETL, ShootDetail 컬럼과 득점 좌표 분석
 
-[최수민](spacewather@gmail.com): Pass, Player 컬럼과 승률 분석
+[최수민](spacewather@gmail.com): 데이터 ETL, 크롤링, Pass, Player 컬럼과 승률 분석, 팀가치 분석 
 
 # 파일 설명
 
